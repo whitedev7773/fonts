@@ -11,6 +11,7 @@ Pull Request시 아래 예시 이미지 속성과 동일하게 이미지를 첨�
 
 ## 나눔스퀘어
 > 네이버 한글한글 아름답게 캠페인
+> https://hangeul.naver.com/font/nanum
 
 ### Light / Regular / Bold / ExtraBold
 ![NanumSquare](NanumSquare/ex.png)
@@ -36,6 +37,7 @@ font-family: 'NanumSquareAcr';
 
 ## 나눔스퀘어 네오
 > 네이버 한글한글 아름답게 캠페인
+> https://hangeul.naver.com/font/nanum
 
 ### Light / Regular / Bold / ExtraBold / Heavy
 ![NanumSquareNeo](NanumSquareNeo/ex.png)
