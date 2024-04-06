@@ -13,7 +13,7 @@ Pull Request시 아래 예시 이미지 속성과 동일하게 이미지를 첨�
 > 네이버 한글한글 아름답게 캠페인
 
 ### Light / Regular / Bold / ExtraBold
-![NanumSquare](NanumSquare\ex.png)
+![NanumSquare](NanumSquare/ex.png)
 
 
 1. `link`로 불러온 후
@@ -38,7 +38,7 @@ font-family: 'NanumSquareAcr';
 > 네이버 한글한글 아름답게 캠페인
 
 ### Light / Regular / Bold / ExtraBold / Heavy
-![NanumSquareNeo](NanumSquareNeo\ex.png)
+![NanumSquareNeo](NanumSquareNeo/ex.png)
 
 1. `link`로 불러온 후
 ```html
